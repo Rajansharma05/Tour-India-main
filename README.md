@@ -1,11 +1,11 @@
 <div align="center">
-	<a href="https://nm2028.github.io/Tour-India/"><img src="./pictures/tour-india.jpg"></a>
+	<img src="./pictures/tour-india.jpg"></a>
 	<h4>A simple Tourism Website Portfolio which shows travel destinations across various part of Country. This theme is made using Bootstrap features several content sections, a responsive portfolio grid (tourist-places), window modals for each portfolio item, Blogs section and AboutUs Section</h4>
 </div>
 
-## [Live Preview](https://nm2028.github.io/Tour-India/)
-[![Tour India Preview](./pictures/welcoming-page.png)](https://nm2028.github.io/Tour-India/)
-[![Glimpse Preview](./pictures/parts-glimpse.png)](https://nm2028.github.io/Tour-India/)
+## [Live Preview]
+[![Tour India Preview](./pictures/welcoming-page.png)]
+[![Glimpse Preview](./pictures/parts-glimpse.png)]
 
 ## Wireframe
 ![Tour India Wireframe](./pictures/wireframe-pc.png)
